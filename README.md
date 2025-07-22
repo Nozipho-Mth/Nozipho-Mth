@@ -1,5 +1,10 @@
 ## 👋 Hi, I'm Nozipho Mthimunye
 
+## 🧭 My Cybersecurity Journey (Visual Layout)
+
+![Profile Diagram](https://github.com/Nozipho-Mth/Nozipho-Mth/blob/main/profile-diagram.png.png)
+
+
 **Aspiring Cybersecurity Analyst | ISP Technical Support Specialist | Cloud Homelab Builder**
 
 🔐 Over 4 years in the ISP sector, blending customer insight from a sales background with deep technical support experience in fibre, LTE, VoIP, and home networks  
