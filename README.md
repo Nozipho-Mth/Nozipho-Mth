@@ -32,7 +32,8 @@ A multi-OS cloud security lab featuring EC2 deployments, MFA & IAM roles, billin
 ## 🎓 Certifications
 
 - ✅ **CompTIA A+** – Core IT support skills  
-- ✅ **CompTIA Network+** – Network infrastructure & troubleshooting  
+- ✅ **CompTIA Network+** – Network infrastructure & troubleshooting 
+- ✅ **MANCOSA** - HC Informations Technology
 - ✅ **Google Cybersecurity Certificate** – Threat detection, incident response & security tooling  
 - 🧩 Cisco Networking Basics – Currently enrolled  
 - 🛡️ SANCS25 Cybersecurity Programme – Strategic cyber resilience simulation & expert-led lectures  
